@@ -21,7 +21,7 @@ You can read more about the signal protocol
 ## Install
 
 ```sh
-npm install signal-protocol
+npm install libsignal-protocol-nodejs
 ```
 
 ## Usage
@@ -190,6 +190,6 @@ sessionCipher.decryptWhisperMessage(ciphertext).then(function(plaintext) {
 
 ## License
 
-I (elsehow) release copyright to
+I (manbearpixel) release copyright to
 Copyright 2015-2016 Open Whisper Systems 
 under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
